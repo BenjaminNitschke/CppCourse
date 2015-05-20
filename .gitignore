@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.ncrunchproject
+*.ncrunchsolution

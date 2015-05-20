@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextAdventure", "TextAdventure.vcxproj", "{735F82FB-4FBE-48BD-8931-61DEE2D20607}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextAdventureTests", "..\TextAdventureTests\TextAdventureTests.vcxproj", "{989D0C8D-1702-4E3B-85E9-849ECFA671EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735F82FB-4FBE-48BD-8931-61DEE2D20607}.Debug|x86.ActiveCfg = Debug|Win32
+		{735F82FB-4FBE-48BD-8931-61DEE2D20607}.Debug|x86.Build.0 = Debug|Win32
+		{735F82FB-4FBE-48BD-8931-61DEE2D20607}.Release|x86.ActiveCfg = Release|Win32
+		{735F82FB-4FBE-48BD-8931-61DEE2D20607}.Release|x86.Build.0 = Release|Win32
+		{989D0C8D-1702-4E3B-85E9-849ECFA671EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{989D0C8D-1702-4E3B-85E9-849ECFA671EE}.Debug|x86.Build.0 = Debug|Win32
+		{989D0C8D-1702-4E3B-85E9-849ECFA671EE}.Release|x86.ActiveCfg = Release|Win32
+		{989D0C8D-1702-4E3B-85E9-849ECFA671EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
