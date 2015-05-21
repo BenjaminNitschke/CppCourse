@@ -26,3 +26,9 @@
 *.ipch
 *.ncrunchproject
 *.ncrunchsolution
+*.suo
+*.sdf
+*.tlog
+*.log
+*.sbr
+*.pdb
